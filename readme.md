@@ -209,3 +209,6 @@ Motor B: $K_{ff}=4.6, K_P=3.92, K_d=0.00001, K_i=10$
 
 ![20241213_100932.jpg](64f62c88-10a1-4bb8-97f1-c0449f20a931.jpg)
 
+# Test Run
+
+https://www.youtube.com/watch?v=PdAuPIRZCAM
