@@ -192,12 +192,10 @@ $K_{ff}=4.6, K_P=3.92, K_d=0.001, K_i=10$
 ![Screenshot 2024-12-11 163524.jpg](23019fb0-8206-4b56-b5b0-9f3245d1351b.jpg)
 
 Through testing different PID and $K_{ff}$ constants, we found that these constants produced the least steady state error:
-$$
+
 Motor A: $K_{ff}=4.5, K_P=3.92, K_d=0.00001, K_i=10$
-$$
-$$
+
 Motor B: $K_{ff}=4.6, K_P=3.92, K_d=0.00001, K_i=10$
-$$
 
 ## Pinout 
 
