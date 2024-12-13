@@ -69,7 +69,7 @@ $\omega_{wheel} = \frac{\omega_{shaft}}{120}$
 
 $K_P = \frac{100}{\omega_{shaft}}$
 
-$K_P = 3.293 [\frac{\%}{rad/s}]$
+$K_P = 3.293 [\frac{duty}{rad/s}]$
 
 
 # Motor A Step Response
