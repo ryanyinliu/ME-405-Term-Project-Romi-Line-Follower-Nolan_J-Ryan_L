@@ -199,5 +199,13 @@ Motor B: $K_{ff}=4.6, K_P=3.92, K_d=0.00001, K_i=10$
 
 ## Pinout 
 
-![Screenshot 2024-12-11 171823.jpg](7248f259-37b8-47bc-9e89-59c98a41a16e.jpg)				
+![Screenshot 2024-12-11 171823.jpg](7248f259-37b8-47bc-9e89-59c98a41a16e.jpg)		
+
+# Final Assembly
+
+![20241213_100939.jpg](59fd9f63-9c71-4c56-be78-bffbe35af8d8.jpg)
+
+![20241213_100954.jpg](c9b9abe5-db83-4988-9935-8b4ea0efcba2.jpg)
+
+![20241213_100932.jpg](64f62c88-10a1-4bb8-97f1-c0449f20a931.jpg)
 
