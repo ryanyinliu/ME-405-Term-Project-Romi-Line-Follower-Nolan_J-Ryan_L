@@ -58,24 +58,19 @@ The motor used a PID control algorithm to maintain a set speed. We began our con
 
 ![Screenshot 2024-12-11 154045.jpg](bd7fc0c3-0d4c-4046-a482-65dbb8098770.jpg)
 
-$$
-K_V = \frac{150RPM*\frac{2Πradians-minutes}{60seconds-revolutions}}{4.5V}
-$$
-$$
-V_{battery} = 6*1.45V
-$$
-$$
-\omega_{shaft} = K_V*V_{battery}
-$$
-$$
-\omega_{wheel} = \frac{\omega_{shaft}}{120}
-$$
-$$
-K_P = \frac{100}{\omega_{shaft}}
-$$
-$$
-K_P = 3.293 [\frac{\%}{rad/s}]
-$$
+
+$K_V = \frac{150RPM*\frac{2Πradians-minutes}{60seconds-revolutions}}{4.5V}$
+
+$V_{battery} = 6*1.45V$
+
+$\omega_{shaft} = K_V*V_{battery}$
+
+$\omega_{wheel} = \frac{\omega_{shaft}}{120}$
+
+$K_P = \frac{100}{\omega_{shaft}}$
+
+$K_P = 3.293 [\frac{\%}{rad/s}]$
+
 
 # Motor A Step Response
 $K_{ff}=3.1, K_P=3.92, K_d = 0.00001, K_i = 10$
