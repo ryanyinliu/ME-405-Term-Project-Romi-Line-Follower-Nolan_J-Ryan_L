@@ -212,3 +212,5 @@ Motor B: $K_{ff}=4.6, K_P=3.92, K_d=0.00001, K_i=10$
 # Test Run
 
 https://www.youtube.com/watch?v=PdAuPIRZCAM
+
+$\( F = ma \)$
